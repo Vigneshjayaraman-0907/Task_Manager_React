@@ -1,3 +1,4 @@
+
 # MERN Task Manager
 
 A simple full-stack Task Manager app built with MongoDB, Express, React, and Node.js.
@@ -64,3 +65,7 @@ This starts the React app at `http://localhost:3000`, which talks to the backend
 - Deployment (Render/Railway for backend, Vercel/Netlify for frontend, Atlas for DB)
 - Environment-based API URLs (`.env` in React with `REACT_APP_API_URL`)
 - Form validation, loading/error states
+=======
+# Task_Manager_React
+A Task Manager Application built with Node.js and React Js
+>>>>>>> 40582b176d3f09fac724608b5dbb5da34acad554
